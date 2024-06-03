@@ -1,5 +1,7 @@
 <center> <h1> WiDS Datathon 2024 Challenge #2<h1> </center>
-[Datathon 2024 Challenge Theme: Equity in Healthcare.](https://www.widsworldwide.org/wp-content/uploads/2023/09/Datathon-Oncology-HomePage-16x9-1.png)
+   
+![Datathon 2024 Challenge Theme: Equity in Healthcare.](https://www.widsworldwide.org/wp-content/uploads/2023/09/Datathon-Oncology-HomePage-16x9-1.png)
+
 
 [The WiDS Datathon](https://www.widsworldwide.org/learn/datathon/) is hosted on [Kaggle](https://www.kaggle.com/competitions/widsdatathon2024-challenge2), using a predictive analytics challenge focused on social impact. This Datathon used a real-world evidence dataset from Health Verity, one of the largest healthcare data ecosystems in the US.
 
